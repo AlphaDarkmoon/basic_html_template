@@ -1,0 +1,7 @@
+HTML CSS Support --by ecmel
+
+JavaScript (ES6) code snippets  --by charalampos karypidis
+
+Live Server  --by Ritwick Dey
+
+PHP  --by DEVSENSE
